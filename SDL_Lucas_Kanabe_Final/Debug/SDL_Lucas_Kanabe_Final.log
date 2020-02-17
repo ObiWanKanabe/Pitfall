@@ -1,0 +1,5 @@
+﻿  Physics.cpp
+c:\gamedev\completeprojects\sdl_lucas_kanabe_final\sdl_lucas_kanabe_final\physics.cpp(112): warning C4715: 'Physics::distanceX': not all control paths return a value
+c:\gamedev\completeprojects\sdl_lucas_kanabe_final\sdl_lucas_kanabe_final\physics.cpp(120): warning C4715: 'Physics::distanceY': not all control paths return a value
+  SDL_Lucas_Kanabe_Final.vcxproj -> C:\GameDev\CompleteProjects\SDL_Lucas_Kanabe_Final\Debug\SDL_Lucas_Kanabe_Final.exe
+  SDL_Lucas_Kanabe_Final.vcxproj -> C:\GameDev\CompleteProjects\SDL_Lucas_Kanabe_Final\Debug\SDL_Lucas_Kanabe_Final.pdb (Partial PDB)
